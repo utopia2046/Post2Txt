@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+﻿<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package id="HtmlAgilityPack" version="1.4.9" targetFramework="net45" />
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package id="HtmlAgilityPack" version="1.4.9" targetFramework="net45" />
+>>>>>>> f7658f8356d228489ae3643830a0a5b4a95d56a8
+</packages>
