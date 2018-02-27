@@ -162,6 +162,7 @@ namespace Post2Txt
                     {
                         case "p":
                         case "br":
+                        case "div":
                             // treat paragraphs as crlf
                             outText.Write("\r\n");
                             break;
